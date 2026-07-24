@@ -17,6 +17,8 @@
 # specify the the remote address of your own GitHub repo:
 # git clone git@github.com:YOUR_USERNAME/my-first-repo.git
 
-Test
 git add .
 git commit -m "My first commit"
+
+
+More updates let's se how this works 
